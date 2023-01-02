@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:toggl_shortcut/views/screens/loading_screen/loading_data.dart';
 import 'package:toggl_shortcut/views/screens/loading_screen/loading_view_model.dart';
-import 'package:toggl_shortcut/views/screens/loading_screen/screen.dart';
+import 'package:toggl_shortcut/views/screens/screen.dart';
 
 class LoadingScreen extends Screen {
   const LoadingScreen() : super();
