@@ -1,0 +1,3 @@
+class TogglTimeEntry {
+  // final String
+}
